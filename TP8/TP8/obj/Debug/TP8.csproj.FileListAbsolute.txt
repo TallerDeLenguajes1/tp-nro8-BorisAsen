@@ -1,0 +1,7 @@
+C:\Users\Boris Asen\Desktop\PROGRAMADOR UNIVERSITARIO\Taller de Lenguajes 1\TP8\TP8\TP8\bin\Debug\TP8.exe.config
+C:\Users\Boris Asen\Desktop\PROGRAMADOR UNIVERSITARIO\Taller de Lenguajes 1\TP8\TP8\TP8\bin\Debug\TP8.exe
+C:\Users\Boris Asen\Desktop\PROGRAMADOR UNIVERSITARIO\Taller de Lenguajes 1\TP8\TP8\TP8\bin\Debug\TP8.pdb
+C:\Users\Boris Asen\Desktop\PROGRAMADOR UNIVERSITARIO\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.csprojAssemblyReference.cache
+C:\Users\Boris Asen\Desktop\PROGRAMADOR UNIVERSITARIO\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.csproj.CoreCompileInputs.cache
+C:\Users\Boris Asen\Desktop\PROGRAMADOR UNIVERSITARIO\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.exe
+C:\Users\Boris Asen\Desktop\PROGRAMADOR UNIVERSITARIO\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.pdb
