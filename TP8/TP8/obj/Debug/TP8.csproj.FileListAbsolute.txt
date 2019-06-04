@@ -5,3 +5,16 @@ C:\Users\Boris Asen\Desktop\PROGRAMADOR UNIVERSITARIO\Taller de Lenguajes 1\TP8\
 C:\Users\Boris Asen\Desktop\PROGRAMADOR UNIVERSITARIO\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.csproj.CoreCompileInputs.cache
 C:\Users\Boris Asen\Desktop\PROGRAMADOR UNIVERSITARIO\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.exe
 C:\Users\Boris Asen\Desktop\PROGRAMADOR UNIVERSITARIO\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.pdb
+E:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\bin\Debug\TP8.exe.config
+E:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.exe
+E:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.pdb
+E:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\bin\Debug\TP8.exe
+E:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\bin\Debug\TP8.pdb
+E:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.csprojResolveAssemblyReference.cache
+F:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\bin\Debug\TP8.exe.config
+F:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\bin\Debug\TP8.exe
+F:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\bin\Debug\TP8.pdb
+F:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.csprojAssemblyReference.cache
+F:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.csproj.CoreCompileInputs.cache
+F:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.exe
+F:\Taller de lenguajes 1\Taller de Lenguajes 1\TP8\TP8\TP8\obj\Debug\TP8.pdb
