@@ -7,8 +7,14 @@ using System.Threading.Tasks;
 
 namespace TP8
 {
-    class Program
-    {
+        ////Enum necesarios para simular empleados aleatorios
+        public enum names { Juan, Maria, Pedro, Sofia, Agustina, Rafael };
+        public enum surnames { Perez, Ramirez, Martinez, Rodriguez, Carrizo, Gonzalez };
+        public enum maritalStatus { Casado, Soltero };
+        public enum genders { Mujer, Hombre, Otro };
+        public enum positions { Auxiliar, Admnistrativo, Ingeniero, Especialista, Investigador }
+        class Program
+        {
         const string FileName = "registros.csv";
 
         //MAIN
@@ -43,13 +49,6 @@ namespace TP8
 
             Console.ReadKey();
         }
-
-        ////Enum necesarios para simular empleados aleatorios
-        public enum names { Juan, Maria, Pedro, Sofia, Agustina, Rafael };
-        public enum surnames { Perez, Ramirez, Martinez, Rodriguez, Carrizo, Gonzalez };
-        public enum maritalStatus { Casado, Soltero };
-        public enum genders { Mujer, Hombre, Otro };
-        public enum positions { Auxiliar, Admnistrativo, Ingeniero, Especialista, Investigador }
 
         //Funcion para cargar empleados desde el csv
         public static List<empleado> EmployeesFromCsvToList(List<empleado> empleados)
@@ -217,24 +216,25 @@ namespace TP8
             if (!File.Exists(BackUpPath))
             {
                 Directory.CreateDirectory(BackUpPath);
-                
-                string backUpContent;
-                if (fileNumber == "0")
-                {
-                    BackUpPath = BackUpPath + "\\backup.bk";
-                }
-                else
-                {
-                    BackUpPath = BackUpPath + "\\backup(" + fileNumber + ").bk";
-                }
+            }
 
-                FileStream fs = File.Create(BackUpPath);
-                using (StreamWriter bk = new StreamWriter(fs))
-                {
-                    backUpContent = BackUpString(empleados);
-                    //Console.Write(backUpContent);
-                    bk.Close();
-                }
+            string backUpContent;
+            if (fileNumber == "")
+            {
+                BackUpPath = BackUpPath + "\\backup.bk";
+            }
+            else
+            {
+                BackUpPath = BackUpPath + "\\backup(" + fileNumber + ").bk";
+            }
+
+            FileStream fs = File.Create(BackUpPath);
+            using (StreamWriter bk = new StreamWriter(fs))
+            {
+                backUpContent = BackUpString(empleados);
+                bk.WriteLine(backUpContent);
+                //Console.Write(backUpContent);
+                bk.Close();
             }
         }
 
